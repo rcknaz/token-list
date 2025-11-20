@@ -1,0 +1,29 @@
+{
+  "name": "Cryptonaaz",
+  "symbol": "CRNAZ",
+  "description": "Cryptonaaz is a Solana-based community token built for fast, secure, and scalable digital transactions.",
+  "image": "logo.png",
+  "external_url": "https://yourwebsite.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "Cryptonaaz"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "G7zrFvWmhh9UbCqL47KfJtoj5ZXxdsDzYWTBmZGDpump",
+        "share": 100
+      }
+    ]
+  }
+}
